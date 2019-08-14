@@ -95,3 +95,10 @@ div1.onmouseup = function () {
     dragging = false
 }
 ```
+# 接下来的目标
+* 完成一个可以打开的浮层
+* 完成可以拖动的八卦图
+  
+# 基本信息
+1. 名字：LDQ
+2. 年龄：20
